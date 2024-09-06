@@ -1,1 +1,1 @@
-![SW1](image(2).png)
+![SW1](SW_1.PNG)
